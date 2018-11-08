@@ -1,0 +1,29 @@
+commit 19cca7c516c56c6f79db94677d2a3326a99da2c5
+Author: jesuscrypto13 <evertescalante@gmail.com>
+Date:   Sat Oct 27 00:30:18 2018 -0500
+
+    Agregando la clasica section
+
+commit e7eb73cdadbdaadb621dedcec2185adb7e93780a
+Author: jesuscrypto13 <evertescalante@gmail.com>
+Date:   Sat Oct 27 00:23:29 2018 -0500
+
+    Agregando la section acustica
+
+commit 10430beb9f151f9dd75d9befcdd8c52cd45ae0ce
+Author: jesuscrypto13 <evertescalante@gmail.com>
+Date:   Sat Oct 27 00:06:27 2018 -0500
+
+    Agregando la section hero
+
+commit 8a0cfef83331138f39636298ab29300f4d5cd297
+Author: jesuscrypto13 <evertescalante@gmail.com>
+Date:   Fri Oct 26 22:41:42 2018 -0500
+
+    agregando el header
+
+commit db5af1ddb05896e2f2e9b3bb4ebde1f1591fe875
+Author: jesuscrypto13 <evertescalante@gmail.com>
+Date:   Fri Oct 26 22:39:52 2018 -0500
+
+    inicializando el landing
